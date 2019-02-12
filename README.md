@@ -20,7 +20,7 @@ To share data, please submit a pull request. Alternatively, email Morgan Gorris 
 
 #### 2) Manuscript
 
-There are multiple considerations to take when analysing valley fever case data.
+There are multiple considerations to take when analyzing valley fever case data.
 The manuscript (fxm add link) describes the methods of collection, quality control, and limitations of the data.
 A paper that employs this dataset has been submitted to Open Health Data:
 
