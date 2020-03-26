@@ -14,7 +14,7 @@ We compiled a coccidioidomycosis (valley fever) case database for the southweste
 
 #### 1) Database
 
-Comma-separated values (CSV) monthly data from 2000-2015 for Arizona, California, Nevada, New Mexico, and Utah.
+Comma-separated values (CSV) monthly data from 2000-2015 for Arizona, California, and Nevada.
 
 To share data, please submit a pull request. Alternatively, email Morgan Gorris at mgorris@uci.edu to share data or become a GitHub contributing member. 
 
